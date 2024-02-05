@@ -6,7 +6,7 @@ CPE 322
 From West New York, NJ. I do fullstack MEAN and MERN with Next. Also know C++ and C# App Development, and also Unity. Some educational experience with Assembly and C. Learning SQL and Python.  
 
 ## Labs 
-1. Raspberry Pi [->](Lab1/README.md)
+1. Raspberry Pi [->](Labs/Lab1/)
 2. etc.
 
 <hr>
