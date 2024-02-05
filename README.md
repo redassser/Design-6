@@ -1,29 +1,16 @@
-# Design 6 
-## Public Repo for design 6 at Stevens
+# Public Repo for Design 6 
+CPE 322
 
-**Ryan Piedrahita**. I program *always* :)
-```
-Wow lists
-```
-1. First
-2. second
+## What is Ryan Piedrahita
 
-- some
-- another
+From West New York, NJ. I do fullstack MEAN and MERN with Next. Also know C++ and C# App Development, and also Unity. Some educational experience with Assembly and C. Learning SQL and Python.  
+
+## Labs 
+1. Raspberry Pi [->](Lab1/README.md)
+2. etc.
 
 <hr>
 
-``
-wow
-``
-this block code has some c# i've written for a game i like
-
-![Arrow pointing down at the block code](https://t3.ftcdn.net/jpg/02/06/94/70/360_F_206947090_ujVMfvIu4vq6YczeDUIZ37AMCB1VnK6Y.jpg)
-
-```csharp
-  if ((__instance.inTerminalMenu && !useTerminal) || __instance.isTypingChat) return;
-  if (ShipBuildModeManager.Instance.InBuildMode) return;
-  if (!Application.isFocused) return;
 ```
-
 Also check out my site [rpie.dev](https://rpie.dev) has some of my projects
+```
