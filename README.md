@@ -1,6 +1,6 @@
 # Public Repo for Design 6 
 
-CPE 322
+[CPE 322 Labs](https://github.com/kevinwlu/iot/tree/master)
 
 ## What is Ryan Piedrahita
 
