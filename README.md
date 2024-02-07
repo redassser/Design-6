@@ -2,9 +2,18 @@
 
 [CPE 322 Labs](https://github.com/kevinwlu/iot/tree/master)
 
-## What is Ryan Piedrahita
+## What is Ryan Piedrahita 
+![Me](https://github.com/redassser/Design-6/assets/40395425/347465c0-6e18-4573-ae96-ad4dee21079a) 
 
-From West New York, NJ. I do fullstack MEAN and MERN with Next. Also know C++ and C# App Development, and also Unity. Some educational experience with Assembly and C. Learning SQL and Python.  
+From *West New York, NJ*
+
+Stuff I know
+- Fullstack MEAN and MERN (with Next)
+- C++ and C# App dev
+- Unity
+- Some educational Assembly and C
+- Learning SQL and Python
+
 
 ## Labs 
 1. [Raspberry Pi ->](Labs/Lab1/)
@@ -20,4 +29,10 @@ From West New York, NJ. I do fullstack MEAN and MERN with Next. Also know C++ an
 
 <hr>
 
+```JavaScript
+console.log("Welcome to my repo :)");
+```
 Also check out my site [rpie.dev](https://rpie.dev) has some of my projects
+
+> The brick walls are there for a reason. They’re not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.
+> \- Randy Pausch
