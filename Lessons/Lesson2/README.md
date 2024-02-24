@@ -1,8 +1,8 @@
 ### [<- Return](../../)
 
-# Lab 2 - Raspberry Pi
+# Lesson 2 - Raspberry Pi
 
-## Lab 2A
+## Lesson 2A
 
 1. `ssh ryan@192.168.1.156`, then `sudo nano /boot/cmdline.txt`
    1. `console=tty1` but i deleted it anyway
