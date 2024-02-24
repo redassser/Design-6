@@ -16,16 +16,16 @@ Stuff I know
 
 
 ## Labs 
-1. [Raspberry Pi ->](Labs/Lab1/)
-2. [Lab 2](Labs/Lab2)
-3. [Lab 3](Labs/Lab3)
-4. [Lab 4](Labs/Lab4)
-5. [Lab 5](Labs/Lab5)
-6. [Lab 6](Labs/Lab6)
-7. [Lab 7](Labs/Lab7)
-8. [Lab 8](Labs/Lab8)
-9. [Lab 9](Labs/Lab9)
-10. [Lab 10](Labs/Lab10)
+1.  [ ][VHDL ->](Labs/Lab1/)
+2.  [✔][Commands ->](Labs/Lab2)
+3.  [✔][Python ->](Labs/Lab3)
+4.  [ ][Lab 4](Labs/Lab4)
+5.  [ ][Lab 5](Labs/Lab5)
+6.  [ ][Lab 6](Labs/Lab6)
+7.  [ ][Lab 7](Labs/Lab7)
+8.  [ ][Lab 8](Labs/Lab8)
+9.  [ ][Lab 9](Labs/Lab9)
+10. [ ][Lab 10](Labs/Lab10)
 
 <hr>
 
