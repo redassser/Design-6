@@ -20,7 +20,7 @@ Stuff I know
 2.  [✔][Commands ->](Labs/Lab2)
 3.  [✔][Python ->](Labs/Lab3)
 4.  [✔][Django and Flask ->](Labs/Lab4)
-5.  [ ][Lab 5](Labs/Lab5)
+5.  [✔][Paho-MQTT ->](Labs/Lab5)
 6.  [ ][Lab 6](Labs/Lab6)
 7.  [ ][Lab 7](Labs/Lab7)
 8.  [ ][Lab 8](Labs/Lab8)
