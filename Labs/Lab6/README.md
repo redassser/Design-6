@@ -15,7 +15,7 @@ ryan@rpi:~/iot/lesson6 $ node hello-world.js
 Server running at http://127.0.0.1:3000/
 ```
 
-[image of hello, world]
+![IMG_20240225_003809937](https://github.com/redassser/Design-6/assets/40395425/00ff6327-8b20-495b-980b-619b880181f3)
 
 ```bash
 ryan@rpi:~/iot/lesson6 $ node hello.js
@@ -24,7 +24,7 @@ response end call done
 request end event fired
 ```
 
-[image of hello]
+![IMG_20240225_004053680](https://github.com/redassser/Design-6/assets/40395425/24ebf508-3cc6-4d0c-b940-e363059927d2)
 
 ```bash
 ryan@rpi:~/iot/lesson6 $ node http.js
@@ -34,7 +34,7 @@ ryan@rpi:~/iot/lesson6 $ node http.js
 2
 ```
 
-[image of refreshed]
+![IMG_20240225_004322461](https://github.com/redassser/Design-6/assets/40395425/e9165acd-d39a-41c9-9e89-66785fc114f2)
 
 ### Pystache
 
