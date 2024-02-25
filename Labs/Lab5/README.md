@@ -26,4 +26,4 @@ Feb 24 23:41:05 rpi systemd[1]: Started Mosquitto MQTT Broker.
 
 The two terminals through ssh:
 
-[image]
+![subpubcpu](https://github.com/redassser/Design-6/assets/40395425/05bc04a1-c9fc-4e1b-a493-ccba2ebbc9be)
