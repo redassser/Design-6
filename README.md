@@ -16,16 +16,16 @@ Stuff I know
 
 
 ## Labs 
-1.  [ ][VHDL ->](Labs/Lab1/)
+1.  [〰][VHDL ->](Labs/Lab1/)
 2.  [✔][Commands ->](Labs/Lab2)
 3.  [✔][Python ->](Labs/Lab3)
 4.  [✔][Django & Flask ->](Labs/Lab4)
 5.  [✔][Paho-MQTT ->](Labs/Lab5)
 6.  [✔][Node.js & Pystache ->](Labs/Lab6)
-7.  [ ][Lab 7](Labs/Lab7)
-8.  [ ][Lab 8](Labs/Lab8)
-9.  [ ][Lab 9](Labs/Lab9)
-10. [ ][Lab 10](Labs/Lab10)
+7.  [✔][ThingSpeak and Google Sheets ->](Labs/Lab7)
+8.  [〰][Lab 8](Labs/Lab8)
+9.  [〰][Lab 9](Labs/Lab9)
+10. [〰][Lab 10](Labs/Lab10)
 
 <hr>
 
