@@ -24,7 +24,7 @@ Stuff I know
 6.  [✔][Node.js & Pystache ->](Labs/Lab6)
 7.  [✔][ThingSpeak and Google Sheets ->](Labs/Lab7)
 8.  [✔][Data Analysis ->](Labs/Lab8)
-9.  [〰][Lab 9](Labs/Lab9)
+9.  [✔][YANG ->](Labs/Lab9)
 10. [〰][Lab 10](Labs/Lab10)
 
 <hr>
