@@ -97,4 +97,4 @@ ryan@rpi:~ $ curl localhost:5000/mine
 
 ### Post!
 
-[image]
+![IMG_20240226_221648890](https://github.com/redassser/Design-6/assets/40395425/8028c7a7-2540-45a0-99ff-0728886d3fae)
