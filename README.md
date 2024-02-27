@@ -15,8 +15,8 @@ Stuff I know
 - Learning SQL and Python
 
 
-## Labs 
-1.  [〰][VHDL ->](Labs/Lab1/)
+## Labs [All Completed]
+1.  [✔][VHDL ->](Labs/Lab1/)
 2.  [✔][Commands ->](Labs/Lab2)
 3.  [✔][Python ->](Labs/Lab3)
 4.  [✔][Django & Flask ->](Labs/Lab4)
